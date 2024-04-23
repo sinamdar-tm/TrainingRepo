@@ -1,7 +1,6 @@
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
-Testing commit trigger
 
 ## 👉 Objectives
 
